@@ -2,9 +2,8 @@
 
 made additional changes before rebase
 
-## Purpose
+## Repository Purpose
 
-This will be a change that conflicts with
-whatever is ont he remote side.
+This file is just a readme file.
 
-This was edited locally.
+
